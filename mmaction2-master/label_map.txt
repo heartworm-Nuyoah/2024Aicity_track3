@@ -1,0 +1,16 @@
+0:Normal Forward Driving
+1:Drinking
+2:Phone Call(right)
+3:Phone Call(left)
+4:Eating
+5:Text (Right)
+6:Text (Left)
+7:Reaching behind
+8:Adjust control panel
+9:Pick up from floor (Driver)
+10:Pick up from floor (Passenger)
+11:Talk to passenger at the right
+12:Talk to passenger at backseat
+13:yawning
+14:Hand on head
+15:Singing or dancing with music
