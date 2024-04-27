@@ -96,7 +96,7 @@ python tools/batch_inference.py --config ./work_dir/train/right1/swin_base_patch
 ```shell
 python post_process.py 
 python further_process.py 
-Finally, the results can be seen in results_submission_process.txt.
+# Finally, the results can be seen in results_submission_process.txt.
 ```
 
 
