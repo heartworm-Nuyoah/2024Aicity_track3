@@ -2,7 +2,7 @@
 This repo includes solution for AICity2024 Challenge Track 3 -  Naturalistic Driving Action Recognition
 
 
-![framework.png](../_resources/framework-1.png)
+![framework.png](./framework.png)
 
 
 
